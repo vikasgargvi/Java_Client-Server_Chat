@@ -1,6 +1,6 @@
 # Java_Client-Server_Chat
 
-First run ChatServer
+Run ChatServer
 > java ChatServer "port no"
   
 Run ChatClient
